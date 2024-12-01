@@ -1,0 +1,13 @@
+.mat-tree-node {
+  cursor: pointer;
+}
+
+  .mat-tree-node-content {
+    padding: 8px;
+    cursor: pointer;
+    background-color: #f4f4f4;
+  }
+
+  .mat-tree-node-content:hover {
+    background-color: #e0e0e0;
+  }

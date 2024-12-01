@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+.sidenav-container {
+  display: flex;
+  height: 100vh;
+}
+
+mat-sidenav {
+  width: 250px;
+  background-color: #f4f4f4;
+}
+
+mat-sidenav-content {
+  flex: 1;
+  padding: 16px;
+}
